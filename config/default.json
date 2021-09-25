@@ -1,0 +1,6 @@
+{
+  "port" : 5000,
+  "jwtSecret" : "coffee project",
+  "mongoUri": "mongodb+srv://coffee-admin:H9YXAUK7IsDcr7pF@cluster0.bluzo.mongodb.net/app?retryWrites=true&w=majority"
+
+}
